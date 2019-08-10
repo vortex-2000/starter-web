@@ -11,6 +11,4 @@ As explained main purpuse is to provide examples.
 ##Deployment
 Can be deployed on any web server.
 ###Copyright
-Copyright is useless.
-Copyright is useless.
-Copyright is useless.
+2019.git.train 
